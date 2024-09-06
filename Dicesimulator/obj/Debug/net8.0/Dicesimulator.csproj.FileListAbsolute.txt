@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Dicesimulator\bin\Debug\net8.0\Dicesimulator.exe
+D:\Programmering\Programmering\Dicesimulator\bin\Debug\net8.0\Dicesimulator.deps.json
+D:\Programmering\Programmering\Dicesimulator\bin\Debug\net8.0\Dicesimulator.runtimeconfig.json
+D:\Programmering\Programmering\Dicesimulator\bin\Debug\net8.0\Dicesimulator.dll
+D:\Programmering\Programmering\Dicesimulator\bin\Debug\net8.0\Dicesimulator.pdb
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.AssemblyInfo.cs
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.dll
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\refint\Dicesimulator.dll
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.pdb
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\Dicesimulator.genruntimeconfig.cache
+D:\Programmering\Programmering\Dicesimulator\obj\Debug\net8.0\ref\Dicesimulator.dll
